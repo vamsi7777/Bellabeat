@@ -1,6 +1,4 @@
----
-title: "Bellabeat case-study"
----
+
 ## Statement of the business task
 #### To analyze smart device usage data in order to gain insight into how consumers use non-Bellabeat smart devices.
 ### Description of the data
